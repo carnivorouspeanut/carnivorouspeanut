@@ -1,6 +1,7 @@
 ## Hi there, I'm Elena Ocheredko aka carnivorouspeanut 👋
 # DS | ML
 🧬I'm doing DS in biotech, but I'm open to exploring opportunities beyond that field
+
 🥅 2024 Goals: get involved in a Computer vision/NLP project
 
 
