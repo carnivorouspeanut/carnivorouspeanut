@@ -10,7 +10,7 @@
 </a>
 
 ## Languages and Tools:
-<img src="https://github.com/carnivorouspeanut/carnivorouspeanut/blob/main/profile_images/github.png" alt="Description" width="30" height="30" style="margin-right: 20px;"/> <img src="https://github.com/carnivorouspeanut/carnivorouspeanut/blob/main/profile_images/aws-photoaidcom-cropped.png" alt="Description" width="30" height="30" style="margin-right: 20px;"/> <img src="https://github.com/carnivorouspeanut/carnivorouspeanut/blob/main/profile_images/Python-logo-notext.svg.png" alt="Description" width="30" height="30" style="margin-right: 20px;"/>
+<img src="https://github.com/carnivorouspeanut/carnivorouspeanut/blob/main/profile_images/github.png" alt="Description" width="30" height="30" style="margin-right: 100px;"/> <img src="https://github.com/carnivorouspeanut/carnivorouspeanut/blob/main/profile_images/aws-photoaidcom-cropped.png" alt="Description" width="30" height="30" style="margin-right: 20px;"/> <img src="https://github.com/carnivorouspeanut/carnivorouspeanut/blob/main/profile_images/Python-logo-notext.svg.png" alt="Description" width="30" height="30" style="margin-right: 20px;"/>
 
 
 
