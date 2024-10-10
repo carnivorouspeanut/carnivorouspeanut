@@ -10,8 +10,12 @@
 </a>
 
 ## Languages and Tools:
-<img src="https://github.com/carnivorouspeanut/carnivorouspeanut/blob/main/profile_images/github.png" alt="Description" width="30" height="30"> <img src="![image](https://github.com/user-attachments/assets/05bb5d22-ae65-4b48-ad70-3a95e3d1230a)
-" width="30" height="30">              <img src="https://github.com/user-attachments/assets/61239759-c71e-46de-a9c7-aa4f2bd4702d" width="30" height="30">       <img src="https://github.com/user-attachments/assets/ccbca4b2-1321-4db7-9559-ca70d16f4e9d" width="30" height="30"> <img src="https://github.com/user-attachments/assets/fa141e01-f312-474d-bfc6-2ecea7ad13dd" width="30" height="30">                  <img src="https://github.com/user-attachments/assets/1414d919-60fc-47c7-89d6-4839be8e1df9" width="35" height="35">
+<img src="https://github.com/carnivorouspeanut/carnivorouspeanut/blob/main/profile_images/github.png" alt="Description" width="30" height="30" style="margin-right: 20px;"/> 
+<img src="https://github.com/carnivorouspeanut/carnivorouspeanut/blob/main/profile_images/aws-photoaidcom-cropped.png" alt="Description" width="30" height="30" style="margin-right: 20px;"/>
+<img src="https://github.com/carnivorouspeanut/carnivorouspeanut/blob/main/profile_images/Python-logo-notext.svg.png" alt="Description" width="30" height="30" style="margin-right: 20px;"/>
+
+
+
 
 
 
